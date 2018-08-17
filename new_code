@@ -4055,6 +4055,8 @@ function zxcByClassName(nme,el,tag){
 <br>
 <hr>
 <br>
+
+<div>
 <p style="font-size:20px"><b><u>Data Sources:</u></b></p>
 <a href="http://www.mob-rule.com/g25?0=Load&strokeColor=DD1188&q=North%20Carolina" target="_blank">Google Maps Interface with County Borders</a><br>
 <a href="http://www.econsultant.com/usa-state-maps-with-county-lines-county-names/nc-3-state-map-with-county-lines-county-names.gif" target="_blank">North Carolina County Names</a><br>
@@ -4079,7 +4081,7 @@ function zxcByClassName(nme,el,tag){
 Developer: Andrew's Weather Center (Andrew H.)<br>
 Development time: ~20 hours<br>
 Contact: andrewswxcenter@gmail.com</i></p>
-
+</div>
 <br>
 <hr>
 <br>
