@@ -3,19 +3,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-<style type="text/css">
-/*<![CDATA[*/
-#info {
-  position:relative;width:100%;height:300px;border:inset black 3px;
-}
+<!-- Reference to tables.css script in Hostinger File Manager -->
+    <link rel="stylesheet" type="text/css" href="https://www.andrewswxcenter.com/files/style.css">
 
-.info {
-  position:absolute;width:100%;height:300px;background-Color:#FFFFCC;
-}
-/*]]>*/
-</style>
+
 <script type="text/javascript">
-/*<![CDATA[*/
+
 function showInfo(id,nu){
  var obj=document.getElementById(id);
  var frames=zxcByClassName(id,obj);
@@ -37,7 +30,6 @@ function zxcByClassName(nme,el,tag){
  return ary;
 }
 
-/*]]>*/
 </script>
 
 </head>
@@ -3951,112 +3943,112 @@ function zxcByClassName(nme,el,tag){
 <b>NWS Office:</b> Newport/Morehead City, NC (MHX)
 </p></div></div>
 <div class="info" >
-<center><p style="font-size:24px">Hover over a North Carolina county to view city, county, and climate data. This includes geographic data, population data, and some climatological statistics.<br><br>&copy; 2011-2017 ANDREW'S WEATHER CENTER - SOME RIGHTS RESERVED</p></center></div>
+<center><p style="font-size:24px">Hover over a North Carolina county to view city, county, and climate data. This includes geographic data, population data, and some climatological statistics.<br><br>&copy; 2011-2018 ANDREW'S WEATHER CENTER - SOME RIGHTS RESERVED</p></center></div>
 </div>
 
 
 <map name="showcompartments">
   <area shape="poly" coords="604,149,615,122,629,115,639,101,676,124,635,157" href="https://www.andrewswxcenter.com/ccci/#wake" onClick="showInfo('info',0)" >
-  <area shape="poly" coords="641,163,681,134,697,158,684,185,659,192" href="https://www.andrewswxcenter.com/ccci/#johnston" onMouseOver="showInfo('info',1)" >
-  <area shape="poly" coords="609,163,634,174,644,192,617,195,593,205,584,198" href="https://www.andrewswxcenter.com/ccci/#harnett" onMouseOver="showInfo('info',2)" >
-  <area shape="poly" coords="310,20,337,25,347,44,336,44,328,57,307,45" href="https://www.andrewswxcenter.com/ccci/#ashe" onMouseOver="showInfo('info',3)">
-  <area shape="poly" coords="345,27,385,29,380,42,360,38,352,44" href="https://www.andrewswxcenter.com/ccci/#alleghany" onMouseOver="showInfo('info',4)">
-  <area shape="poly" coords="390,29,438,30,436,58,397,63,388,42" href="https://www.andrewswxcenter.com/ccci/#surry" onMouseOver="showInfo('info',5)">
-  <area shape="poly" coords="444,32,440,61,485,62,481,34" href="https://www.andrewswxcenter.com/ccci/#stokes" onMouseOver="showInfo('info',6)">
-  <area shape="poly" coords="488,31,541,31,539,65,486,65" href="https://www.andrewswxcenter.com/ccci/#rockingham" onMouseOver="showInfo('info',7)">
-  <area shape="poly" coords="545,33,542,61,581,65,581,31" href="https://www.andrewswxcenter.com/ccci/#caswell" onMouseOver="showInfo('info',8)">
-  <area shape="poly" coords="585,32,585,62,621,64,618,32" href="https://www.andrewswxcenter.com/ccci/#person" onMouseOver="showInfo('info',9)">
-  <area shape="poly" coords="623,30,623,86,648,91,650,31" href="https://www.andrewswxcenter.com/ccci/#granville" onMouseOver="showInfo('info',10)">
-  <area shape="poly" coords="659,33,659,72,667,63,675,59,671,30" href="https://www.andrewswxcenter.com/ccci/#vance" onMouseOver="showInfo('info',11)">
-  <area shape="poly" coords="677,30,680,60,708,67,714,49,715,30" href="https://www.andrewswxcenter.com/ccci/#warren" onMouseOver="showInfo('info',12)">
-  <area shape="poly" coords="722,34,715,70,741,73,766,86,778,93,788,82,770,60,751,57,752,44" href="https://www.andrewswxcenter.com/ccci/#halifax" onMouseOver="showInfo('info',13)">
-  <area shape="poly" coords="737,29,759,37,763,51,777,51,785,65,794,62,806,29" href="https://www.andrewswxcenter.com/ccci/#northampton" onMouseOver="showInfo('info',14)">
-  <area shape="poly" coords="809,36,801,61,848,60,829,50,821,35,825,28,814,28" href="https://www.andrewswxcenter.com/ccci/#hertford" onMouseOver="showInfo('info',15)">
-  <area shape="poly" coords="832,26,828,38,851,43,859,49,876,42,872,26" href="https://www.andrewswxcenter.com/ccci/#gates" onMouseOver="showInfo('info',16)">
-  <area shape="poly" coords="862,55,857,72,862,92,883,90,865,79,866,54" href="https://www.andrewswxcenter.com/ccci/#chowan" onMouseOver="showInfo('info',17)">
-  <area shape="poly" coords="871,50,870,79,907,79,888,61,879,46" href="https://www.andrewswxcenter.com/ccci/#perquimans" onMouseOver="showInfo('info',18)">
-  <area shape="poly" coords="878,30,889,60,928,69" href="https://www.andrewswxcenter.com/ccci/#pasquotank" onMouseOver="showInfo('info',19)">
-  <area shape="poly" coords="878,25,935,66,931,52,915,45,899,26" href="https://www.andrewswxcenter.com/ccci/#camden" onMouseOver="showInfo('info',20)">
-  <area shape="poly" coords="905,24,923,45,956,80,966,76,944,21" href="https://www.andrewswxcenter.com/ccci/#currituck" onMouseOver="showInfo('info',21)">
-  <area shape="poly" coords="284,61,308,55,326,68,315,79,293,79" href="https://www.andrewswxcenter.com/ccci/#watauga" onMouseOver="showInfo('info',22)">
-  <area shape="poly" coords="323,82,331,72,329,67,336,61,340,64,341,52,351,55,364,43,379,52,389,55,387,89,345,93" href="https://www.andrewswxcenter.com/ccci/#wilkes" onMouseOver="showInfo('info',23)">
-  <area shape="poly" coords="394,69,393,89,433,93,430,82,439,80,437,68,408,63" href="https://www.andrewswxcenter.com/ccci/#yadkin" onMouseOver="showInfo('info',24)">
-  <area shape="poly" coords="441,66,443,79,434,86,434,96,439,92,445,101,465,101,465,95,485,99,485,68" href="https://www.andrewswxcenter.com/ccci/#forsyth" onMouseOver="showInfo('info',25)">
-  <area shape="poly" coords="487,67,486,110,539,114,540,68" href="https://www.andrewswxcenter.com/ccci/#guilford" onMouseOver="showInfo('info',26)">
-  <area shape="poly" coords="541,71,543,119,572,120,568,112,568,68" href="https://www.andrewswxcenter.com/ccci/#alamance" onMouseOver="showInfo('info',27)">
-  <area shape="poly" coords="573,69,570,110,573,117,597,118,604,67" href="https://www.andrewswxcenter.com/ccci/#orange" onMouseOver="showInfo('info',28)">
-  <area shape="poly" coords="606,68,600,117,617,117,620,108,626,108,629,100,622,96,620,69" href="https://www.andrewswxcenter.com/ccci/#durham" onMouseOver="showInfo('info',29)">
-  <area shape="poly" coords="651,96,655,78,665,80,673,68,707,73,682,120" href="https://www.andrewswxcenter.com/ccci/#franklin" onMouseOver="showInfo('info',30)">
-  <area shape="poly" coords="685,125,706,74,717,76,720,81,740,82,729,120,725,117,692,135" href="https://www.andrewswxcenter.com/ccci/#nash" onMouseOver="showInfo('info',31)">
-  <area shape="poly" coords="733,117,743,80,760,86,760,94,776,100,783,121,771,123,748,141" href="https://www.andrewswxcenter.com/ccci/#edgecombe" onMouseOver="showInfo('info',32)">
-  <area shape="poly" coords="779,97,785,109,784,120,826,143,839,138,844,117,833,123,830,112,819,116,815,108,802,108,798,101,784,93" href="https://www.andrewswxcenter.com/ccci/#martin" onMouseOver="showInfo('info',33)">
-  <area shape="poly" coords="786,90,798,84,789,70,843,66,852,97,847,107,849,115,841,109,835,121,829,110,819,114,818,105,801,107,799,94" href="https://www.andrewswxcenter.com/ccci/#bertie" onMouseOver="showInfo('info',34)">
-  <area shape="poly" coords="842,136,854,110,885,105,894,115,889,121,888,136" href="https://www.andrewswxcenter.com/ccci/#washington" onMouseOver="showInfo('info',35)">
-  <area shape="poly" coords="892,106,896,113,891,133,904,137,901,148,909,149,913,137,929,98" href="https://www.andrewswxcenter.com/ccci/#tyrrell" onMouseOver="showInfo('info',36)">
-  <area shape="poly" coords="934,137,935,96,976,82,997,140,993,199,965,209" href="https://www.andrewswxcenter.com/ccci/#dare" onMouseOver="showInfo('info',37)">
-  <area shape="poly" coords="260,85,266,83,275,66,285,77,294,91,290,101,279,97,270,104,261,101" href="https://www.andrewswxcenter.com/ccci/#avery" onMouseOver="showInfo('info',38)">
-  <area shape="poly" coords="290,103,296,90,293,82,328,87,340,106,336,132,327,126,314,130" href="https://www.andrewswxcenter.com/ccci/#caldwell" onMouseOver="showInfo('info',39)">
-  <area shape="poly" coords="342,125,342,104,360,94,374,95,374,112,367,128,361,120" href="https://www.andrewswxcenter.com/ccci/#alexander" onMouseOver="showInfo('info',40)">
-  <area shape="poly" coords="376,95,378,110,369,128,371,137,376,138,388,148,384,161,405,165,402,143,411,93" href="https://www.andrewswxcenter.com/ccci/#iredell" onMouseOver="showInfo('info',41)">
-  <area shape="poly" coords="408,164,404,144,411,120,439,137,452,142,451,146,467,164" href="https://www.andrewswxcenter.com/ccci/#rowan" onMouseOver="showInfo('info',42)">
-  <area shape="poly" coords="412,116,413,94,436,93,441,98,441,104,447,110,439,122,435,128" href="https://www.andrewswxcenter.com/ccci/#davie" onMouseOver="showInfo('info',43)">
-  <area shape="poly" coords="440,137,436,125,446,123,448,104,466,102,466,98,484,101,480,167,472,167,455,138" href="https://www.andrewswxcenter.com/ccci/#davidson" onMouseOver="showInfo('info',44)">
-  <area shape="poly" coords="485,114,481,165,535,165,538,115" href="https://www.andrewswxcenter.com/ccci/#randolph" onMouseOver="showInfo('info',45)">
-  <area shape="poly" coords="538,165,541,122,575,124,575,118,607,119,600,150,608,157,604,164,595,157,587,151,569,163" href="https://www.andrewswxcenter.com/ccci/#chatham" onMouseOver="showInfo('info',46)">
-  <area shape="poly" coords="692,136,700,154,730,154,748,143,739,131,732,118" href="https://www.andrewswxcenter.com/ccci/#wilson" onMouseOver="showInfo('info',47)">
-  <area shape="poly" coords="748,144,767,161,780,186,791,182,794,186,802,164,809,156,805,133,778,122" href="https://www.andrewswxcenter.com/ccci/#pitt" onMouseOver="showInfo('info',48)">
-  <area shape="poly" coords="805,134,808,152,803,176,839,200,872,200,881,182,877,159,868,149,863,137,825,147" href="https://www.andrewswxcenter.com/ccci/#beaufort" onMouseOver="showInfo('info',49)">
-  <area shape="poly" coords="864,137,900,137,900,145,910,150,915,139,953,141,963,204,938,220,904,185,882,182" href="https://www.andrewswxcenter.com/ccci/#hyde" onMouseOver="showInfo('info',50)">
-  <area shape="poly" coords="163,125,169,104,181,108,182,99,195,88,197,101,211,101,220,118,171,135" href="https://www.andrewswxcenter.com/ccci/#madison" onMouseOver="showInfo('info',51)">
-  <area shape="poly" coords="216,106,226,86,231,93,237,96,242,95,245,106,251,110,247,126,237,135,229,120" href="https://www.andrewswxcenter.com/ccci/#yancey" onMouseOver="showInfo('info',52)">
-  <area shape="poly" coords="230,84,232,91,239,94,247,95,248,102,253,105,253,119,272,111,260,100,260,85,244,78" href="https://www.andrewswxcenter.com/ccci/#mitchell" onMouseOver="showInfo('info',53)">
-  <area shape="poly" coords="276,102,279,112,266,124,284,134,287,155,296,149,303,156,319,156,336,132,316,130,297,116,290,103" href="https://www.andrewswxcenter.com/ccci/#burke" onMouseOver="showInfo('info',54)">
-  <area shape="poly" coords="321,156,339,129,360,124,372,140,385,153,380,159" href="https://www.andrewswxcenter.com/ccci/#catawba" onMouseOver="showInfo('info',55)">
-  <area shape="poly" coords="322,157,328,176,380,182,380,164" href="https://www.andrewswxcenter.com/ccci/#lincoln" onMouseOver="showInfo('info',56)">
-  <area shape="poly" coords="329,181,343,207,377,216,375,195,377,183" href="https://www.andrewswxcenter.com/ccci/#gaston" onMouseOver="showInfo('info',57)">
-  <area shape="poly" coords="292,205,298,185,300,159,317,159,335,189,334,196,341,209" href="https://www.andrewswxcenter.com/ccci/#cleveland" onMouseOver="showInfo('info',58)">
-  <area shape="poly" coords="267,205,269,201,250,176,238,176,241,163,266,160,283,163,298,154,301,179,290,203" href="https://www.andrewswxcenter.com/ccci/#rutherford" onMouseOver="showInfo('info',59)">
-  <area shape="poly" coords="249,158,236,152,236,140,251,127,255,120,273,107,278,115,267,121,280,137,285,155,270,161" href="https://www.andrewswxcenter.com/ccci/#mcdowell" onMouseOver="showInfo('info',60)">
-  <area shape="poly" coords="227,204,232,186,235,180,249,179,269,199,262,206" href="https://www.andrewswxcenter.com/ccci/#polk" onMouseOver="showInfo('info',61)">
-  <area shape="poly" coords="200,211,197,191,185,174,189,170,204,173,230,167,235,170,235,179,222,200" href="https://www.andrewswxcenter.com/ccci/#henderson" onMouseOver="showInfo('info',62)">
-  <area shape="poly" coords="180,173,176,165,181,152,175,146,170,138,177,138,226,122,234,132,236,150,233,155,245,159,238,169,226,163,208,173,189,167" href="https://www.andrewswxcenter.com/ccci/#buncombe" onMouseOver="showInfo('info',63)">
-  <area shape="poly" coords="134,132,140,159,159,188,171,187,182,176,175,169,180,154,171,149,165,131,147,127" href="https://www.andrewswxcenter.com/ccci/#haywood" onMouseOver="showInfo('info',64)">
-  <area shape="poly" coords="182,176,195,186,199,207,148,226,154,214,161,201,165,189,175,188" href="https://www.andrewswxcenter.com/ccci/#transylvania" onMouseOver="showInfo('info',65)">
-  <area shape="poly" coords="140,225,137,217,129,196,123,196,114,167,131,159,151,177,164,192" href="https://www.andrewswxcenter.com/ccci/#jackson" onMouseOver="showInfo('info',66)">
-  <area shape="poly" coords="95,224,79,204,70,205,74,191,117,184,121,194,128,197,128,207,134,217,138,227" href="https://www.andrewswxcenter.com/ccci/#macon" onMouseOver="showInfo('info',67)">
-  <area shape="poly" coords="76,188,76,183,86,179,88,172,59,163,74,151,101,154,131,138,136,157,118,162,114,183" href="https://www.andrewswxcenter.com/ccci/#swain" onMouseOver="showInfo('info',68)">
-  <area shape="poly" coords="56,163,44,172,41,191,43,196,61,191,75,192,75,185,85,179,87,172" href="https://www.andrewswxcenter.com/ccci/#graham" onMouseOver="showInfo('info',69)">
-  <area shape="poly" coords="45,221,45,219,59,205,81,208,91,223,47,226" href="https://www.andrewswxcenter.com/ccci/#clay" onMouseOver="showInfo('info',70)">
-  <area shape="poly" coords="7,223,12,194,37,190,45,197,72,193,72,205,47,214,45,223" href="https://www.andrewswxcenter.com/ccci/#cherokee" onMouseOver="showInfo('info',71)">
-  <area shape="poly" coords="383,166,382,183,386,188,380,191,375,214,372,228,384,220,394,230,402,231,426,207,413,201,412,188,402,182,400,169" href="https://www.andrewswxcenter.com/ccci/#mecklenburg" onMouseOver="showInfo('info',72)">
-  <area shape="poly" coords="402,167,404,174,404,182,414,189,415,200,433,209,457,171" href="https://www.andrewswxcenter.com/ccci/#cabarrus" onMouseOver="showInfo('info',73)">
-  <area shape="poly" coords="397,233,404,244,402,257,454,261,457,211,438,214,430,209" href="https://www.andrewswxcenter.com/ccci/#union" onMouseOver="showInfo('info',74)">
-  <area shape="poly" coords="435,209,457,165,470,170,475,174,477,182,483,184,478,204,481,214,477,209,464,213,456,207,442,214" href="https://www.andrewswxcenter.com/ccci/#stanly" onMouseOver="showInfo('info',75)">
-  <area shape="poly" coords="458,210,454,258,495,262,499,256,505,252,505,240,498,237,500,233,495,222,487,223,478,222,475,213,466,216" href="https://www.andrewswxcenter.com/ccci/#anson" onMouseOver="showInfo('info',76)">
-  <area shape="poly" coords="470,170,477,171,485,184,478,201,485,214,530,215,517,198,513,169" href="https://www.andrewswxcenter.com/ccci/#montgomery" onMouseOver="showInfo('info',77)">
-  <area shape="poly" coords="482,218,528,214,536,226,548,230,536,236,533,243,539,247,528,253,531,263,502,263,505,249,504,238,503,232,497,221,486,223" href="https://www.andrewswxcenter.com/ccci/#richmond" onMouseOver="showInfo('info',78)">
-  <area shape="poly" coords="516,168,520,192,524,202,531,214,536,220,534,229,546,230,570,210,588,211,577,202,579,196,569,191,560,170" href="https://www.andrewswxcenter.com/ccci/#moore" onMouseOver="showInfo('info',79)">
-  <area shape="poly" coords="579,193,571,187,563,173,565,163,579,162,586,152,595,159,603,165" href="https://www.andrewswxcenter.com/ccci/#lee" onMouseOver="showInfo('info',80)">
-  <area shape="poly" coords="529,263,530,258,537,252,536,245,546,234,557,242,560,254,559,261,563,266,550,286" href="https://www.andrewswxcenter.com/ccci/#scotland" onMouseOver="showInfo('info',81)">
-  <area shape="poly" coords="553,232,571,210,588,214,589,227,590,232,596,244,583,256,565,258" href="https://www.andrewswxcenter.com/ccci/#hoke" onMouseOver="showInfo('info',82)">
-  <area shape="poly" coords="550,287,565,267,561,261,580,261,592,243,608,247,612,262,623,280,617,297,618,307,605,310,594,328" href="https://www.andrewswxcenter.com/ccci/#robeson" onMouseOver="showInfo('info',83)">
-  <area shape="poly" coords="612,257,607,247,597,244,589,231,589,213,614,206,642,206,638,224,638,238,655,256" href="https://www.andrewswxcenter.com/ccci/#cumberland" onMouseOver="showInfo('info',84)">
-  <area shape="poly" coords="651,194,642,206,643,216,640,237,686,293,699,274,690,272,697,253,693,211,681,204,679,199,663,201,657,201" href="https://www.andrewswxcenter.com/ccci/#sampson" onMouseOver="showInfo('info',85)">
-  <area shape="poly" coords="679,195,694,187,706,156,727,157,732,177,730,206,725,214,713,210,705,210,685,207" href="https://www.andrewswxcenter.com/ccci/#wayne" onMouseOver="showInfo('info',86)">
-  <area shape="poly" coords="733,159,732,178,736,184,745,184,747,188,772,179,767,166,747,147" href="https://www.andrewswxcenter.com/ccci/#greene" onMouseOver="showInfo('info',87)">
-  <area shape="poly" coords="733,186,733,210,740,217,741,230,756,228,768,214,766,201,775,204,775,194,770,179,749,188" href="https://www.andrewswxcenter.com/ccci/#lenoir" onMouseOver="showInfo('info',88)">
-  <area shape="poly" coords="772,203,777,201,776,195,777,189,786,189,804,180,835,198,828,213,848,233,871,220,906,235,816,256,813,230" href="https://www.andrewswxcenter.com/ccci/#craven" onMouseOver="showInfo('info',89)">
-  <area shape="poly" coords="827,216,834,200,838,203,878,201,870,222,852,233" href="https://www.andrewswxcenter.com/ccci/#pamlico" onMouseOver="showInfo('info',90)">
-  <area shape="poly" coords="612,258,624,280,619,308,636,310,667,321,680,321,693,311,684,306,682,298,674,278,657,258" href="https://www.andrewswxcenter.com/ccci/#bladen" onMouseOver="showInfo('info',91)">
-  <area shape="poly" coords="598,330,605,312,621,310,637,310,663,321,686,319,695,328,688,343,674,343,666,355,657,349,651,354,651,364,641,376" href="https://www.andrewswxcenter.com/ccci/#columbus" onMouseOver="showInfo('info',92)">
-  <area shape="poly" coords="654,391,642,382,642,377,650,368,654,352,665,355,672,347,687,344,696,322,710,327,722,342,714,384" href="https://www.andrewswxcenter.com/ccci/#brunswick" onMouseOver="showInfo('info',93)">
-  <area shape="poly" coords="714,330,722,340,725,366,743,334,734,320,718,323" href="https://www.andrewswxcenter.com/ccci/#newhanover" onMouseOver="showInfo('info',94)">
-  <area shape="poly" coords="685,317,695,311,684,303,699,275,751,273,763,307,741,326,735,318,718,319,713,326" href="https://www.andrewswxcenter.com/ccci/#pender" onMouseOver="showInfo('info',95)">
-  <area shape="poly" coords="700,271,694,271,696,252,694,212,710,208,735,216,744,233,753,244,748,274" href="https://www.andrewswxcenter.com/ccci/#duplin" onMouseOver="showInfo('info',96)">
-  <area shape="poly" coords="763,306,750,274,750,242,752,235,779,243,793,244,805,262,815,282" href="https://www.andrewswxcenter.com/ccci/#onslow" onMouseOver="showInfo('info',97)">
-  <area shape="poly" coords="745,233,758,227,769,213,767,203,813,229,813,255,818,258,805,264,805,251" href="https://www.andrewswxcenter.com/ccci/#jones" onMouseOver="showInfo('info',98)">
-  <area shape="poly" coords="813,263,821,257,855,256,864,236,887,225,934,218,885,284,820,282" href="https://www.andrewswxcenter.com/ccci/#carteret" onMouseOver="showInfo('info',99)">
-  <area shape="poly" coords="-" href="#-" onMouseOver="showInfo('info',100)">
+  <area shape="poly" coords="641,163,681,134,697,158,684,185,659,192" href="https://www.andrewswxcenter.com/ccci/#johnston" onClick="showInfo('info',1)" >
+  <area shape="poly" coords="609,163,634,174,644,192,617,195,593,205,584,198" href="https://www.andrewswxcenter.com/ccci/#harnett" onClick="showInfo('info',2)" >
+  <area shape="poly" coords="310,20,337,25,347,44,336,44,328,57,307,45" href="https://www.andrewswxcenter.com/ccci/#ashe" onClick="showInfo('info',3)">
+  <area shape="poly" coords="345,27,385,29,380,42,360,38,352,44" href="https://www.andrewswxcenter.com/ccci/#alleghany" onClick="showInfo('info',4)">
+  <area shape="poly" coords="390,29,438,30,436,58,397,63,388,42" href="https://www.andrewswxcenter.com/ccci/#surry" onClick="showInfo('info',5)">
+  <area shape="poly" coords="444,32,440,61,485,62,481,34" href="https://www.andrewswxcenter.com/ccci/#stokes" onClick="showInfo('info',6)">
+  <area shape="poly" coords="488,31,541,31,539,65,486,65" href="https://www.andrewswxcenter.com/ccci/#rockingham" onClick="showInfo('info',7)">
+  <area shape="poly" coords="545,33,542,61,581,65,581,31" href="https://www.andrewswxcenter.com/ccci/#caswell" onClick="showInfo('info',8)">
+  <area shape="poly" coords="585,32,585,62,621,64,618,32" href="https://www.andrewswxcenter.com/ccci/#person" onClick="showInfo('info',9)">
+  <area shape="poly" coords="623,30,623,86,648,91,650,31" href="https://www.andrewswxcenter.com/ccci/#granville" onClick="showInfo('info',10)">
+  <area shape="poly" coords="659,33,659,72,667,63,675,59,671,30" href="https://www.andrewswxcenter.com/ccci/#vance" onClick="showInfo('info',11)">
+  <area shape="poly" coords="677,30,680,60,708,67,714,49,715,30" href="https://www.andrewswxcenter.com/ccci/#warren" onClick="showInfo('info',12)">
+  <area shape="poly" coords="722,34,715,70,741,73,766,86,778,93,788,82,770,60,751,57,752,44" href="https://www.andrewswxcenter.com/ccci/#halifax" onClick="showInfo('info',13)">
+  <area shape="poly" coords="737,29,759,37,763,51,777,51,785,65,794,62,806,29" href="https://www.andrewswxcenter.com/ccci/#northampton" onClick="showInfo('info',14)">
+  <area shape="poly" coords="809,36,801,61,848,60,829,50,821,35,825,28,814,28" href="https://www.andrewswxcenter.com/ccci/#hertford" onClick="showInfo('info',15)">
+  <area shape="poly" coords="832,26,828,38,851,43,859,49,876,42,872,26" href="https://www.andrewswxcenter.com/ccci/#gates" onClick="showInfo('info',16)">
+  <area shape="poly" coords="862,55,857,72,862,92,883,90,865,79,866,54" href="https://www.andrewswxcenter.com/ccci/#chowan" onClick="showInfo('info',17)">
+  <area shape="poly" coords="871,50,870,79,907,79,888,61,879,46" href="https://www.andrewswxcenter.com/ccci/#perquimans" onClick="showInfo('info',18)">
+  <area shape="poly" coords="878,30,889,60,928,69" href="https://www.andrewswxcenter.com/ccci/#pasquotank" onClick="showInfo('info',19)">
+  <area shape="poly" coords="878,25,935,66,931,52,915,45,899,26" href="https://www.andrewswxcenter.com/ccci/#camden" onClick="showInfo('info',20)">
+  <area shape="poly" coords="905,24,923,45,956,80,966,76,944,21" href="https://www.andrewswxcenter.com/ccci/#currituck" onClick="showInfo('info',21)">
+  <area shape="poly" coords="284,61,308,55,326,68,315,79,293,79" href="https://www.andrewswxcenter.com/ccci/#watauga" onClick="showInfo('info',22)">
+  <area shape="poly" coords="323,82,331,72,329,67,336,61,340,64,341,52,351,55,364,43,379,52,389,55,387,89,345,93" href="https://www.andrewswxcenter.com/ccci/#wilkes" onClick="showInfo('info',23)">
+  <area shape="poly" coords="394,69,393,89,433,93,430,82,439,80,437,68,408,63" href="https://www.andrewswxcenter.com/ccci/#yadkin" onClick="showInfo('info',24)">
+  <area shape="poly" coords="441,66,443,79,434,86,434,96,439,92,445,101,465,101,465,95,485,99,485,68" href="https://www.andrewswxcenter.com/ccci/#forsyth" onClick="showInfo('info',25)">
+  <area shape="poly" coords="487,67,486,110,539,114,540,68" href="https://www.andrewswxcenter.com/ccci/#guilford" onClick="showInfo('info',26)">
+  <area shape="poly" coords="541,71,543,119,572,120,568,112,568,68" href="https://www.andrewswxcenter.com/ccci/#alamance" onClick="showInfo('info',27)">
+  <area shape="poly" coords="573,69,570,110,573,117,597,118,604,67" href="https://www.andrewswxcenter.com/ccci/#orange" onClick="showInfo('info',28)">
+  <area shape="poly" coords="606,68,600,117,617,117,620,108,626,108,629,100,622,96,620,69" href="https://www.andrewswxcenter.com/ccci/#durham" onClick="showInfo('info',29)">
+  <area shape="poly" coords="651,96,655,78,665,80,673,68,707,73,682,120" href="https://www.andrewswxcenter.com/ccci/#franklin" onClick="showInfo('info',30)">
+  <area shape="poly" coords="685,125,706,74,717,76,720,81,740,82,729,120,725,117,692,135" href="https://www.andrewswxcenter.com/ccci/#nash" onClick="showInfo('info',31)">
+  <area shape="poly" coords="733,117,743,80,760,86,760,94,776,100,783,121,771,123,748,141" href="https://www.andrewswxcenter.com/ccci/#edgecombe" onClick="showInfo('info',32)">
+  <area shape="poly" coords="779,97,785,109,784,120,826,143,839,138,844,117,833,123,830,112,819,116,815,108,802,108,798,101,784,93" href="https://www.andrewswxcenter.com/ccci/#martin" onClick="showInfo('info',33)">
+  <area shape="poly" coords="786,90,798,84,789,70,843,66,852,97,847,107,849,115,841,109,835,121,829,110,819,114,818,105,801,107,799,94" href="https://www.andrewswxcenter.com/ccci/#bertie" onClick="showInfo('info',34)">
+  <area shape="poly" coords="842,136,854,110,885,105,894,115,889,121,888,136" href="https://www.andrewswxcenter.com/ccci/#washington" onClick="showInfo('info',35)">
+  <area shape="poly" coords="892,106,896,113,891,133,904,137,901,148,909,149,913,137,929,98" href="https://www.andrewswxcenter.com/ccci/#tyrrell" onClick="showInfo('info',36)">
+  <area shape="poly" coords="934,137,935,96,976,82,997,140,993,199,965,209" href="https://www.andrewswxcenter.com/ccci/#dare" onClick="showInfo('info',37)">
+  <area shape="poly" coords="260,85,266,83,275,66,285,77,294,91,290,101,279,97,270,104,261,101" href="https://www.andrewswxcenter.com/ccci/#avery" onClick="showInfo('info',38)">
+  <area shape="poly" coords="290,103,296,90,293,82,328,87,340,106,336,132,327,126,314,130" href="https://www.andrewswxcenter.com/ccci/#caldwell" onClick="showInfo('info',39)">
+  <area shape="poly" coords="342,125,342,104,360,94,374,95,374,112,367,128,361,120" href="https://www.andrewswxcenter.com/ccci/#alexander" onClick="showInfo('info',40)">
+  <area shape="poly" coords="376,95,378,110,369,128,371,137,376,138,388,148,384,161,405,165,402,143,411,93" href="https://www.andrewswxcenter.com/ccci/#iredell" onClick="showInfo('info',41)">
+  <area shape="poly" coords="408,164,404,144,411,120,439,137,452,142,451,146,467,164" href="https://www.andrewswxcenter.com/ccci/#rowan" onClick="showInfo('info',42)">
+  <area shape="poly" coords="412,116,413,94,436,93,441,98,441,104,447,110,439,122,435,128" href="https://www.andrewswxcenter.com/ccci/#davie" onClick="showInfo('info',43)">
+  <area shape="poly" coords="440,137,436,125,446,123,448,104,466,102,466,98,484,101,480,167,472,167,455,138" href="https://www.andrewswxcenter.com/ccci/#davidson" onClick="showInfo('info',44)">
+  <area shape="poly" coords="485,114,481,165,535,165,538,115" href="https://www.andrewswxcenter.com/ccci/#randolph" onClick="showInfo('info',45)">
+  <area shape="poly" coords="538,165,541,122,575,124,575,118,607,119,600,150,608,157,604,164,595,157,587,151,569,163" href="https://www.andrewswxcenter.com/ccci/#chatham" onClick="showInfo('info',46)">
+  <area shape="poly" coords="692,136,700,154,730,154,748,143,739,131,732,118" href="https://www.andrewswxcenter.com/ccci/#wilson" onClick="showInfo('info',47)">
+  <area shape="poly" coords="748,144,767,161,780,186,791,182,794,186,802,164,809,156,805,133,778,122" href="https://www.andrewswxcenter.com/ccci/#pitt" onClick="showInfo('info',48)">
+  <area shape="poly" coords="805,134,808,152,803,176,839,200,872,200,881,182,877,159,868,149,863,137,825,147" href="https://www.andrewswxcenter.com/ccci/#beaufort" onClick="showInfo('info',49)">
+  <area shape="poly" coords="864,137,900,137,900,145,910,150,915,139,953,141,963,204,938,220,904,185,882,182" href="https://www.andrewswxcenter.com/ccci/#hyde" onClick="showInfo('info',50)">
+  <area shape="poly" coords="163,125,169,104,181,108,182,99,195,88,197,101,211,101,220,118,171,135" href="https://www.andrewswxcenter.com/ccci/#madison" onClick="showInfo('info',51)">
+  <area shape="poly" coords="216,106,226,86,231,93,237,96,242,95,245,106,251,110,247,126,237,135,229,120" href="https://www.andrewswxcenter.com/ccci/#yancey" onClick="showInfo('info',52)">
+  <area shape="poly" coords="230,84,232,91,239,94,247,95,248,102,253,105,253,119,272,111,260,100,260,85,244,78" href="https://www.andrewswxcenter.com/ccci/#mitchell" onClick="showInfo('info',53)">
+  <area shape="poly" coords="276,102,279,112,266,124,284,134,287,155,296,149,303,156,319,156,336,132,316,130,297,116,290,103" href="https://www.andrewswxcenter.com/ccci/#burke" onClick="showInfo('info',54)">
+  <area shape="poly" coords="321,156,339,129,360,124,372,140,385,153,380,159" href="https://www.andrewswxcenter.com/ccci/#catawba" onClick="showInfo('info',55)">
+  <area shape="poly" coords="322,157,328,176,380,182,380,164" href="https://www.andrewswxcenter.com/ccci/#lincoln" onClick="showInfo('info',56)">
+  <area shape="poly" coords="329,181,343,207,377,216,375,195,377,183" href="https://www.andrewswxcenter.com/ccci/#gaston" onClick="showInfo('info',57)">
+  <area shape="poly" coords="292,205,298,185,300,159,317,159,335,189,334,196,341,209" href="https://www.andrewswxcenter.com/ccci/#cleveland" onClick="showInfo('info',58)">
+  <area shape="poly" coords="267,205,269,201,250,176,238,176,241,163,266,160,283,163,298,154,301,179,290,203" href="https://www.andrewswxcenter.com/ccci/#rutherford" onClick="showInfo('info',59)">
+  <area shape="poly" coords="249,158,236,152,236,140,251,127,255,120,273,107,278,115,267,121,280,137,285,155,270,161" href="https://www.andrewswxcenter.com/ccci/#mcdowell" onClick="showInfo('info',60)">
+  <area shape="poly" coords="227,204,232,186,235,180,249,179,269,199,262,206" href="https://www.andrewswxcenter.com/ccci/#polk" onClick="showInfo('info',61)">
+  <area shape="poly" coords="200,211,197,191,185,174,189,170,204,173,230,167,235,170,235,179,222,200" href="https://www.andrewswxcenter.com/ccci/#henderson" onClick="showInfo('info',62)">
+  <area shape="poly" coords="180,173,176,165,181,152,175,146,170,138,177,138,226,122,234,132,236,150,233,155,245,159,238,169,226,163,208,173,189,167" href="https://www.andrewswxcenter.com/ccci/#buncombe" onClick="showInfo('info',63)">
+  <area shape="poly" coords="134,132,140,159,159,188,171,187,182,176,175,169,180,154,171,149,165,131,147,127" href="https://www.andrewswxcenter.com/ccci/#haywood" onClick="showInfo('info',64)">
+  <area shape="poly" coords="182,176,195,186,199,207,148,226,154,214,161,201,165,189,175,188" href="https://www.andrewswxcenter.com/ccci/#transylvania" onClick="showInfo('info',65)">
+  <area shape="poly" coords="140,225,137,217,129,196,123,196,114,167,131,159,151,177,164,192" href="https://www.andrewswxcenter.com/ccci/#jackson" onClick="showInfo('info',66)">
+  <area shape="poly" coords="95,224,79,204,70,205,74,191,117,184,121,194,128,197,128,207,134,217,138,227" href="https://www.andrewswxcenter.com/ccci/#macon" onClick="showInfo('info',67)">
+  <area shape="poly" coords="76,188,76,183,86,179,88,172,59,163,74,151,101,154,131,138,136,157,118,162,114,183" href="https://www.andrewswxcenter.com/ccci/#swain" onClick="showInfo('info',68)">
+  <area shape="poly" coords="56,163,44,172,41,191,43,196,61,191,75,192,75,185,85,179,87,172" href="https://www.andrewswxcenter.com/ccci/#graham" onClick="showInfo('info',69)">
+  <area shape="poly" coords="45,221,45,219,59,205,81,208,91,223,47,226" href="https://www.andrewswxcenter.com/ccci/#clay" onClick="showInfo('info',70)">
+  <area shape="poly" coords="7,223,12,194,37,190,45,197,72,193,72,205,47,214,45,223" href="https://www.andrewswxcenter.com/ccci/#cherokee" onClick="showInfo('info',71)">
+  <area shape="poly" coords="383,166,382,183,386,188,380,191,375,214,372,228,384,220,394,230,402,231,426,207,413,201,412,188,402,182,400,169" href="https://www.andrewswxcenter.com/ccci/#mecklenburg" onClick="showInfo('info',72)">
+  <area shape="poly" coords="402,167,404,174,404,182,414,189,415,200,433,209,457,171" href="https://www.andrewswxcenter.com/ccci/#cabarrus" onClick="showInfo('info',73)">
+  <area shape="poly" coords="397,233,404,244,402,257,454,261,457,211,438,214,430,209" href="https://www.andrewswxcenter.com/ccci/#union" onClick="showInfo('info',74)">
+  <area shape="poly" coords="435,209,457,165,470,170,475,174,477,182,483,184,478,204,481,214,477,209,464,213,456,207,442,214" href="https://www.andrewswxcenter.com/ccci/#stanly" onClick="showInfo('info',75)">
+  <area shape="poly" coords="458,210,454,258,495,262,499,256,505,252,505,240,498,237,500,233,495,222,487,223,478,222,475,213,466,216" href="https://www.andrewswxcenter.com/ccci/#anson" onClick="showInfo('info',76)">
+  <area shape="poly" coords="470,170,477,171,485,184,478,201,485,214,530,215,517,198,513,169" href="https://www.andrewswxcenter.com/ccci/#montgomery" onClick="showInfo('info',77)">
+  <area shape="poly" coords="482,218,528,214,536,226,548,230,536,236,533,243,539,247,528,253,531,263,502,263,505,249,504,238,503,232,497,221,486,223" href="https://www.andrewswxcenter.com/ccci/#richmond" onClick="showInfo('info',78)">
+  <area shape="poly" coords="516,168,520,192,524,202,531,214,536,220,534,229,546,230,570,210,588,211,577,202,579,196,569,191,560,170" href="https://www.andrewswxcenter.com/ccci/#moore" onClick="showInfo('info',79)">
+  <area shape="poly" coords="579,193,571,187,563,173,565,163,579,162,586,152,595,159,603,165" href="https://www.andrewswxcenter.com/ccci/#lee" onClick="showInfo('info',80)">
+  <area shape="poly" coords="529,263,530,258,537,252,536,245,546,234,557,242,560,254,559,261,563,266,550,286" href="https://www.andrewswxcenter.com/ccci/#scotland" onClick="showInfo('info',81)">
+  <area shape="poly" coords="553,232,571,210,588,214,589,227,590,232,596,244,583,256,565,258" href="https://www.andrewswxcenter.com/ccci/#hoke" onClick="showInfo('info',82)">
+  <area shape="poly" coords="550,287,565,267,561,261,580,261,592,243,608,247,612,262,623,280,617,297,618,307,605,310,594,328" href="https://www.andrewswxcenter.com/ccci/#robeson" onClick="showInfo('info',83)">
+  <area shape="poly" coords="612,257,607,247,597,244,589,231,589,213,614,206,642,206,638,224,638,238,655,256" href="https://www.andrewswxcenter.com/ccci/#cumberland" onClick="showInfo('info',84)">
+  <area shape="poly" coords="651,194,642,206,643,216,640,237,686,293,699,274,690,272,697,253,693,211,681,204,679,199,663,201,657,201" href="https://www.andrewswxcenter.com/ccci/#sampson" onClick="showInfo('info',85)">
+  <area shape="poly" coords="679,195,694,187,706,156,727,157,732,177,730,206,725,214,713,210,705,210,685,207" href="https://www.andrewswxcenter.com/ccci/#wayne" onClick="showInfo('info',86)">
+  <area shape="poly" coords="733,159,732,178,736,184,745,184,747,188,772,179,767,166,747,147" href="https://www.andrewswxcenter.com/ccci/#greene" onClick="showInfo('info',87)">
+  <area shape="poly" coords="733,186,733,210,740,217,741,230,756,228,768,214,766,201,775,204,775,194,770,179,749,188" href="https://www.andrewswxcenter.com/ccci/#lenoir" onClick="showInfo('info',88)">
+  <area shape="poly" coords="772,203,777,201,776,195,777,189,786,189,804,180,835,198,828,213,848,233,871,220,906,235,816,256,813,230" href="https://www.andrewswxcenter.com/ccci/#craven" onClick="showInfo('info',89)">
+  <area shape="poly" coords="827,216,834,200,838,203,878,201,870,222,852,233" href="https://www.andrewswxcenter.com/ccci/#pamlico" onClick="showInfo('info',90)">
+  <area shape="poly" coords="612,258,624,280,619,308,636,310,667,321,680,321,693,311,684,306,682,298,674,278,657,258" href="https://www.andrewswxcenter.com/ccci/#bladen" onClick="showInfo('info',91)">
+  <area shape="poly" coords="598,330,605,312,621,310,637,310,663,321,686,319,695,328,688,343,674,343,666,355,657,349,651,354,651,364,641,376" href="https://www.andrewswxcenter.com/ccci/#columbus" onClick="showInfo('info',92)">
+  <area shape="poly" coords="654,391,642,382,642,377,650,368,654,352,665,355,672,347,687,344,696,322,710,327,722,342,714,384" href="https://www.andrewswxcenter.com/ccci/#brunswick" onClick="showInfo('info',93)">
+  <area shape="poly" coords="714,330,722,340,725,366,743,334,734,320,718,323" href="https://www.andrewswxcenter.com/ccci/#newhanover" onClick="showInfo('info',94)">
+  <area shape="poly" coords="685,317,695,311,684,303,699,275,751,273,763,307,741,326,735,318,718,319,713,326" href="https://www.andrewswxcenter.com/ccci/#pender" onClick="showInfo('info',95)">
+  <area shape="poly" coords="700,271,694,271,696,252,694,212,710,208,735,216,744,233,753,244,748,274" href="https://www.andrewswxcenter.com/ccci/#duplin" onClick="showInfo('info',96)">
+  <area shape="poly" coords="763,306,750,274,750,242,752,235,779,243,793,244,805,262,815,282" href="https://www.andrewswxcenter.com/ccci/#onslow" onClick="showInfo('info',97)">
+  <area shape="poly" coords="745,233,758,227,769,213,767,203,813,229,813,255,818,258,805,264,805,251" href="https://www.andrewswxcenter.com/ccci/#jones" onClick="showInfo('info',98)">
+  <area shape="poly" coords="813,263,821,257,855,256,864,236,887,225,934,218,885,284,820,282" href="https://www.andrewswxcenter.com/ccci/#carteret" onClick="showInfo('info',99)">
+  <area shape="poly" coords="-" href="#-" onClick="showInfo('info',100)">
  </map>
 
 
