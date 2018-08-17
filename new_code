@@ -3943,7 +3943,7 @@ function zxcByClassName(nme,el,tag){
 <b>NWS Office:</b> Newport/Morehead City, NC (MHX)
 </p></div></div>
 <div class="info" >
-<center><p style="font-size:24px">Hover over a North Carolina county to view city, county, and climate data. This includes geographic data, population data, and some climatological statistics.<br><br>&copy; 2011-2018 ANDREW'S WEATHER CENTER - SOME RIGHTS RESERVED</p></center></div>
+<center><p style="font-size:24px">Click on a North Carolina county to view city, county, and climate data.<br><br>Data was last updated on 15 August 2017.<br>Climate data are approximate and population data are estimations based upon 2015 U.S. Census data.<br>Note the links below for data sources.<br><br>&copy; 2011-2018 ANDREW'S WEATHER CENTER - SOME RIGHTS RESERVED</p></center></div>
 </div>
 
 
